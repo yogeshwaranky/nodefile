@@ -34,7 +34,7 @@ const timestamp = `DATE : ${year}-${month}-${date}  TIME: ${hours}:${minutes}:${
 console.log(timestamp);
 
 app.get("/", (req, res) => {
-    res.send("Hi.....This is deepa❤🎉")
+    res.send("Hi.....This is yogi❤🎉")
 })
 
 //To create a current timestamp in a file//
